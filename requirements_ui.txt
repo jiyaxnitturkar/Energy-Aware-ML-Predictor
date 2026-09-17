@@ -1,0 +1,10 @@
+# ML Performance Predictor - UI Requirements
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+xgboost==2.0.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+joblib==1.3.2
+customtkinter==5.2.1
+pillow==10.1.0
